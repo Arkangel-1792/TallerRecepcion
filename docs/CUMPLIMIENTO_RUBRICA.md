@@ -17,15 +17,15 @@ Esta tabla sirve como lista de verificación antes de entregar y como guía ráp
 
 ## Lista final antes de subir
 
-- [ ] Abrir el proyecto en Android Studio sin errores de sincronización.
-- [ ] Ejecutar las pruebas unitarias.
-- [ ] Instalar el APK en un teléfono o emulador.
-- [ ] Crear una orden con foto.
-- [ ] Cerrar y abrir la app para comprobar Room.
-- [ ] Cambiar el modo oscuro y comprobar DataStore.
+- [x] Abrir y compilar el proyecto sin errores.
+- [x] Ejecutar las pruebas unitarias.
+- [x] Instalar el APK en un teléfono Android.
+- [x] Crear una orden con foto.
+- [x] Comprobar que la orden se conserva con Room.
+- [x] Cambiar el modo oscuro y comprobar DataStore.
 - [ ] Probar Marcas con conexión y luego sin conexión.
-- [ ] Conservar una copia privada de la clave usada para firmar.
-- [ ] Revisar que el AAB seleccionado sea el de `release`.
+- [x] Conservar una copia privada de la clave usada para firmar.
+- [x] Revisar que el AAB seleccionado sea el de `release`.
 - [ ] Grabar el video siguiendo el guion.
 
 ## Punto que depende del proceso del estudiante
