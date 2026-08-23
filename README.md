@@ -132,9 +132,23 @@ La guía detallada para ejecutar, probar y firmar está en [`docs/GUIA_PASO_A_PA
 - `OrdenMapperTest`: comprueba la conversión entre el modelo de dominio y la entidad Room.
 - `DashboardUiStateTest`: comprueba la búsqueda por cliente, placa y número de orden.
 
-## Capturas
+## Capturas en dispositivo real
 
-La lista de capturas que se obtienen durante la validación en teléfono está en la carpeta [`capturas`](capturas). Debe mostrar inicio, formulario, detalle, API y modo oscuro.
+Las siguientes imágenes fueron obtenidas durante la validación de la versión 1.0 en un teléfono Android.
+
+| Inicio y orden guardada | Catálogo remoto de marcas | Ajustes y DataStore |
+|---|---|---|
+| <img src="capturas/01_inicio_claro.jpg" width="230" alt="Inicio en modo claro"> | <img src="capturas/02_catalogo_marcas_api.jpg" width="230" alt="Catálogo remoto de marcas"> | <img src="capturas/03_ajustes_claro.jpg" width="230" alt="Ajustes en modo claro"> |
+
+| Ajustes en modo oscuro | Inicio en modo oscuro | Detalle de la orden |
+|---|---|---|
+| <img src="capturas/04_ajustes_modo_oscuro.jpg" width="230" alt="Ajustes en modo oscuro"> | <img src="capturas/05_inicio_modo_oscuro.jpg" width="230" alt="Inicio en modo oscuro"> | <img src="capturas/06_detalle_orden.jpg" width="230" alt="Detalle de una orden"> |
+
+| Evidencia tomada con cámara | Orden terminada |
+|---|---|
+| <img src="capturas/07_evidencia_camara.jpg" width="230" alt="Evidencia de recepción tomada con cámara"> | <img src="capturas/08_orden_entregada.jpg" width="230" alt="Orden en estado entregado"> |
+
+El inventario completo de evidencias está documentado en [`capturas/README.md`](capturas/README.md).
 
 ## Documentos de apoyo
 
