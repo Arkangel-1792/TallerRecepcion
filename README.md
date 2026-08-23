@@ -136,6 +136,10 @@ La guía detallada para ejecutar, probar y firmar está en [`docs/GUIA_PASO_A_PA
 
 Las siguientes imágenes fueron obtenidas durante la validación de la versión 1.0 en un teléfono Android.
 
+| Cliente | Vehículo y servicio | Inventario y fotografía |
+|---|---|---|
+| <img src="capturas/09_nueva_recepcion_cliente.jpg" width="230" alt="Datos del cliente en nueva recepción"> | <img src="capturas/10_nueva_recepcion_vehiculo.jpg" width="230" alt="Datos del vehículo y servicio"> | <img src="capturas/11_nueva_recepcion_inventario.jpg" width="230" alt="Inventario y evidencia fotográfica"> |
+
 | Inicio y orden guardada | Catálogo remoto de marcas | Ajustes y DataStore |
 |---|---|---|
 | <img src="capturas/01_inicio_claro.jpg" width="230" alt="Inicio en modo claro"> | <img src="capturas/02_catalogo_marcas_api.jpg" width="230" alt="Catálogo remoto de marcas"> | <img src="capturas/03_ajustes_claro.jpg" width="230" alt="Ajustes en modo claro"> |

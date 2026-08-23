@@ -10,7 +10,10 @@ Evidencias obtenidas durante la validación de la versión 1.0 en un teléfono A
 6. `06_detalle_orden.jpg`: datos del cliente, vehículo y flujo de estados.
 7. `07_evidencia_camara.jpg`: fotografía guardada como evidencia de recepción.
 8. `08_orden_entregada.jpg`: orden finalizada y resumen actualizado.
+9. `09_nueva_recepcion_cliente.jpg`: bloque de datos del cliente.
+10. `10_nueva_recepcion_vehiculo.jpg`: vehículo, kilometraje y tipo de servicio.
+11. `11_nueva_recepcion_inventario.jpg`: elementos recibidos y fotografía tomada.
 
-Captura adicional recomendada para la presentación: el formulario **Nueva recepción** mientras se ingresan los datos y se selecciona el inventario.
+Con estas imágenes quedan documentadas las cinco pantallas, la persistencia local, el consumo de la API, la cámara, el inventario, el flujo de estados y los temas claro y oscuro.
 
 Los datos utilizados son únicamente de demostración.
